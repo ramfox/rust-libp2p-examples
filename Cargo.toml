@@ -1,0 +1,8 @@
+
+[workspace]
+members = [
+  "ping",
+  "file_transfer",
+  "file_sharing",
+]
+

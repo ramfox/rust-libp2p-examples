@@ -1,0 +1,11 @@
+[metadata]
+name = "examples"
+description = "Testing generating specification while also running libp2p examples"
+authors = ["ramfox"]
+version = "0.1.0"
+
+[config]
+template = "spec_template.md"
+
+[sections]
+ping = "ping/src/main.rs"
